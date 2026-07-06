@@ -1,0 +1,74 @@
+# זורקים בשבילך — Generative Engine Optimization Map
+
+> Zorkim Bishvilcha (We Throw for You) is a convenient home service that collects garbage bags directly from residents' apartment doors and takes them to the building's trash area. The service targets apartment building residents who want to save time and effort on a daily chore. The brand has a practical, friendly, and community-oriented identity, emphasizing ease, reliability, and door-to-door convenience.
+
+---
+
+## Pages
+
+### בית
+https://-57432423.zappy5.app
+שירות איסוף שקיות זבל ישירות מדלת הדירה שלכם. אין פיר הכל פתיר — אנחנו אוספים מדלת הבית בזמן ובנוחות מקסימלית. שירות אמין, מקצועי ואדיב שמתאים למבוגרים ואנשים בעלי מוגבלויות. מצטרפים עוד היום ומרגישים את ההקלה!
+
+### תודה שפנית אלינו | זורקים בשבילך
+https://-57432423.zappy5.app/thank-you
+זורקים בשבילך - תודה שפנית אלינו | זורקים בשבילך
+
+## Legal & Policy
+
+### Privacy Policy
+https://-57432423.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-57432423.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-57432423.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-57432423.zappy5.app
+- Endpoint: https://-57432423.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About זורקים בשבילך
+Zorkim Bishvilcha (We Throw for You) is a convenient home service that collects garbage bags directly from residents' apartment doors and takes them to the building's trash area. The service targets apartment building residents who want to save time and effort on a daily chore. The brand has a practical, friendly, and community-oriented identity, emphasizing ease, reliability, and door-to-door convenience.
+
+## Target Audience
+- דיירי בניינים המעוניינים בשירות איסוף שקיות אשפה מהדלת
+- דיירי בניינים
+- מקצוענים עסוקים
+- דיירים מבוגרים
+- אנשים בעלי מוגבלות מסויימת
+- ולכל מי שרוצה שירות שהוא איכות ומשפר נוחות
+- כולם
+
+## Industry
+Home Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-57432423.zappy5.app/sitemap.xml
+- Robots: https://-57432423.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-57432423.zappy5.app/llms-full.txt
