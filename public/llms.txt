@@ -35,7 +35,7 @@ Information about WCAG compliance and accessibility features.
 - Email: afik12365@gmail.com
 - Phone: 0587718888
 - Phone (tel): tel:0587718888
-- Address: Rishon le zion, Israel, Israel
+- Address: Ha hatzav 37, Rishon le zion, Israel, Israel
 
 ### Contact form
 - URL: https://example.com
