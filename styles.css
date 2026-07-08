@@ -68,16 +68,16 @@
   src: url('assets/fonts/Rubik-Bold.woff2') format('woff2');
 }
 :root {
-  --primary: #15171A;
-  --secondary: #00D4FF;
-  --accent: #B6FF4D;
-  --bg-light: #F4F1EA;
-  --bg-dark: #15171A;
-  --text-dark: #15171A;
-  --text-light: #F4F1EA;
-  --text-muted: #A8ADB3;
-  --border-light: #D8D2C6;
-  --border-dark: #2A2E33;
+--primary: #1B5E20;
+  --secondary: #4CAF50;
+  --accent: #8BC34A;
+  --bg-light: #FFFFFF;
+  --bg-dark: #0D0D0D;
+  --text-dark: #1A1A1A;
+  --text-light: #FFFFFF;
+  --text-muted: #555555;
+  --border-light: #868686;
+  --border-dark: #666666;
   --nav-bg: transparent;
   --nav-text: #F4F1EA;
   --nav-text-hover: #00D4FF;
@@ -98,6 +98,13 @@
   --spacing-element-gap: 16px;
   --transition-default: all 0.3s ease;
   --transition-hover: all 0.3s ease;
+  --primary-color: #1B5E20;
+  --secondary-color: #4CAF50;
+  --accent-color: #8BC34A;
+  --background-color: #FFFFFF;
+  --surface-color: #F5F5F5;
+  --text-color: #1A1A1A;
+  --text-secondary-color: #555555;
 }
 
 *, *::before, *::after {
@@ -219,8 +226,8 @@ strong, b {
 }
 
 .btn-primary:hover {
-  background: #00bfe6;
-  border-color: #00bfe6;
+  background: #4CAF50;
+  border-color: #4CAF50;
 }
 
 .btn-secondary {
@@ -286,16 +293,16 @@ html[dir="ltr"] .whatsapp-float, html:not([dir]) .whatsapp-float { left: 20px; r
   --nav-bg: transparent;
   --nav-text: #F4F1EA;
   --nav-text-hover: #00D4FF;
-  --primary: #15171A;
-  --secondary: #00D4FF;
-  --accent: #B6FF4D;
-  --bg-light: #F4F1EA;
-  --bg-dark: #15171A;
-  --text-dark: #15171A;
-  --text-light: #F4F1EA;
-  --text-muted: #A8ADB3;
-  --border-light: #D8D2C6;
-  --border-dark: #2A2E33;
+  --primary: #1B5E20;
+  --secondary: #4CAF50;
+  --accent: #8BC34A;
+  --bg-light: #FFFFFF;
+  --bg-dark: #0D0D0D;
+  --text-dark: #1A1A1A;
+  --text-light: #FFFFFF;
+  --text-muted: #555555;
+  --border-light: #868686;
+  --border-dark: #666666;
 }
 
 .navbar {
@@ -512,16 +519,16 @@ html[dir="ltr"] .whatsapp-float, html:not([dir]) .whatsapp-float { left: 20px; r
   --nav-bg: transparent;
   --nav-text: #F4F1EA;
   --nav-text-hover: #00D4FF;
-  --primary: #15171A;
-  --secondary: #00D4FF;
-  --accent: #B6FF4D;
-  --bg-light: #F4F1EA;
-  --bg-dark: #15171A;
-  --text-dark: #15171A;
-  --text-light: #F4F1EA;
-  --text-muted: #A8ADB3;
-  --border-light: #D8D2C6;
-  --border-dark: #2A2E33;
+  --primary: #1B5E20;
+  --secondary: #4CAF50;
+  --accent: #8BC34A;
+  --bg-light: #FFFFFF;
+  --bg-dark: #0D0D0D;
+  --text-dark: #1A1A1A;
+  --text-light: #FFFFFF;
+  --text-muted: #555555;
+  --border-light: #868686;
+  --border-dark: #666666;
 }
 
 .navbar {
@@ -804,7 +811,7 @@ html[dir="ltr"] .whatsapp-float, html:not([dir]) .whatsapp-float { left: 20px; r
 .navbar a:focus-visible,
 .navbar button:focus-visible,
 .nav-menu a:focus-visible {
-  outline: 2px solid var(--primary-color, var(--primary, #15171A));
+  outline: 2px solid var(--primary-color, var(--primary, #1B5E20));
   outline-offset: 2px;
 }
 
@@ -1877,14 +1884,14 @@ main:not(.courses-page-main) { margin-top: 0 !important; padding-top: 0 !importa
 /* Footer Styles */
 /* ===== Footer Base ===== */
 .site-footer {
-  --footer-bg: var(--bg-dark, #15171A);
+  --footer-bg: var(--bg-dark, #1B5E20);
   --footer-text: var(--text-light, #F4F1EA);
   --footer-muted: rgba(244, 241, 234, 0.7);
   --footer-heading: var(--text-light, #F4F1EA);
   --footer-link: rgba(244, 241, 234, 0.8);
-  --footer-link-hover: var(--secondary, #00D4FF);
+  --footer-link-hover: var(--secondary, #4CAF50);
   --footer-border: var(--border-dark, #2A2E33);
-  --footer-accent-line: var(--secondary, #00D4FF);
+  --footer-accent-line: var(--secondary, #4CAF50);
   --footer-radius: 12px;
   --footer-card-radius: 16px;
   --footer-shadow: 0 2px 12px rgba(0, 0, 0, 0.12);
@@ -2009,7 +2016,7 @@ main:not(.courses-page-main) { margin-top: 0 !important; padding-top: 0 !importa
   flex-shrink: 0;
   width: 20px;
   text-align: center;
-  color: var(--secondary, #00D4FF);
+  color: var(--secondary, #4CAF50);
   font-size: 0.9rem;
   padding-top: 2px;
 }
@@ -2077,9 +2084,9 @@ main:not(.courses-page-main) { margin-top: 0 !important; padding-top: 0 !importa
 }
 
 .footer-social a:hover {
-  background: var(--secondary, #00D4FF);
-  color: var(--bg-dark, #15171A);
-  border-color: var(--secondary, #00D4FF);
+  background: var(--secondary, #4CAF50);
+  color: var(--bg-dark, #1B5E20);
+  border-color: var(--secondary, #4CAF50);
   transform: translateY(-2px);
   box-shadow: var(--footer-shadow);
 }
@@ -2400,7 +2407,7 @@ main { flex: 1 0 auto; }
 .index-hero-section .btn-primary:hover {
   transform: translateY(-4px);
   box-shadow: 0 8px 32px rgba(0, 229, 255, 0.5);
-  background: #33EAFF;
+  background: #4CAF50;
 }
 
 .index-hero-section .btn-secondary {
@@ -2408,7 +2415,7 @@ main { flex: 1 0 auto; }
   color: var(--text-light);
   padding: 16px 32px;
   border-radius: 50px;
-  border: 2px solid #AAFF00;
+  border: 2px solid #8BC34A;
   font-weight: 600;
   font-size: 1rem;
   display: inline-flex;
@@ -2421,14 +2428,14 @@ main { flex: 1 0 auto; }
 }
 
 .index-hero-section .btn-secondary i {
-  color: #AAFF00;
+  color: #8BC34A;
   font-size: 1.2rem;
 }
 
 .index-hero-section .btn-secondary:hover {
   background: rgba(170, 255, 0, 0.1);
-  border-color: #CCFF33;
-  color: #CCFF33;
+  border-color: #8BC34A;
+  color: #8BC34A;
   transform: translateY(-4px);
   box-shadow: 0 4px 20px rgba(170, 255, 0, 0.2);
 }
@@ -3247,7 +3254,7 @@ main { flex: 1 0 auto; }
 }
 
 .index-trust-section__tile {
-  background: #fff;
+  background: #FFFFFF;
   border: 1px solid var(--border-light);
   border-radius: var(--radius-card, 16px);
   padding: var(--spacing-card-padding, 32px);
@@ -3674,8 +3681,8 @@ main { flex: 1 0 auto; }
   align-items: center;
   gap: 8px;
   background: transparent;
-  color: #AAFF00;
-  border: 2px solid #AAFF00;
+  color: #577d2a;
+  border: 2px solid #8BC34A;
   padding: 14px 28px;
   border-radius: 50px;
   font-weight: 700;
@@ -3686,7 +3693,7 @@ main { flex: 1 0 auto; }
 }
 
 .index-contact-section__whatsapp-btn:hover {
-  background: #AAFF00;
+  background: #8BC34A;
   color: #0A0A0F;
   box-shadow: 0 0 32px rgba(170,255,0,0.35);
 }
@@ -3703,7 +3710,7 @@ main { flex: 1 0 auto; }
 
 .index-contact-section__reassurance svg {
   flex-shrink: 0;
-  color: #00E5FF;
+  color: #39843c;
 }
 
 /* Form Card */
@@ -3778,7 +3785,7 @@ main { flex: 1 0 auto; }
 
 .index-contact-section__input:focus,
 .index-contact-section__textarea:focus {
-  border-color: #00E5FF;
+  border-color: #4CAF50;
   box-shadow: 0 0 12px rgba(0,229,255,0.15);
 }
 
@@ -3802,7 +3809,7 @@ main { flex: 1 0 auto; }
 }
 
 .index-contact-section__privacy-label a {
-  color: #00E5FF;
+  color: #39843c;
   text-decoration: none;
   font-weight: 600;
 }
@@ -3813,14 +3820,14 @@ main { flex: 1 0 auto; }
 
 .index-contact-section__checkbox {
   margin-top: 3px;
-  accent-color: #00E5FF;
+  accent-color: #4CAF50;
   width: 16px;
   height: 16px;
   flex-shrink: 0;
 }
 
 .index-contact-section__submit-btn {
-  background: #00E5FF;
+  background: #4CAF50;
   color: #0A0A0F;
   padding: 14px 28px;
   border-radius: 50px;
@@ -3839,7 +3846,7 @@ main { flex: 1 0 auto; }
 }
 
 .index-contact-section__submit-btn:hover {
-  background: #33EAFF;
+  background: #4CAF50;
   box-shadow: 0 0 48px rgba(0,229,255,0.5);
   transform: translateY(-2px);
 }
@@ -3857,7 +3864,7 @@ main { flex: 1 0 auto; }
 
 .index-contact-section__form-reassurance svg {
   flex-shrink: 0;
-  color: #00E5FF;
+  color: #39843c;
 }
 
 /* Decorative Glows */
@@ -4554,9 +4561,9 @@ nav.navbar .sub-menu li a:hover { color: #00D4FF !important; background-color: r
   --cc-modal-bg: #ffffff;
   --cc-primary-color: #1f2937;
   --cc-secondary-color: #4b5563;
-  --cc-btn-primary-bg: #15171a;
+  --cc-btn-primary-bg: #1B5E20;
   --cc-btn-primary-color: #ffffff;
-  --cc-btn-primary-border: #15171a;
+  --cc-btn-primary-border: #1B5E20;
   --cc-btn-primary-hover-bg: #000001;
   --cc-btn-primary-hover-border: #000001;
   --cc-btn-primary-hover-color: #ffffff;
@@ -4572,7 +4579,7 @@ nav.navbar .sub-menu li a:hover { color: #00D4FF !important; background-color: r
   --cc-btn-secondary-hover-bg: #e5e7eb;
   --cc-btn-secondary-hover-color: #111827;
   --cc-btn-secondary-hover-border: #d1d5db;
-  --cc-toggle-on-bg: #15171a;
+  --cc-toggle-on-bg: #1B5E20;
 }
 
 #cc-main,
@@ -4685,7 +4692,7 @@ nav.navbar .sub-menu li a:hover { color: #00D4FF !important; background-color: r
  * defaults for the preferences modal's two secondary pills). */
 #zappy-cookie-banner .zappy-cookie-banner__button--customize {
   background-color: transparent !important;
-  color: #15171a !important;
+  color: #1B5E20 !important;
   border: none !important;
   padding: 0 8px !important;
   height: 32px !important;
@@ -4873,7 +4880,7 @@ nav.navbar .sub-menu li a:hover { color: #00D4FF !important; background-color: r
 
 /* Basic Accessibility Enhancements */
 :root {
-  --accessibility-focus: #00D4FF;
+  --accessibility-focus: #4CAF50;
 }
 
 /* Skip link styles */
@@ -4996,9 +5003,9 @@ nav.navbar .sub-menu li a:hover { color: #00D4FF !important; background-color: r
 #mic-access-tool-general-button svg line,
 #mic-access-tool-general-button svg polyline,
 #mic-access-tool-general-button svg g {
-  fill: #00D4FF !important;
-  stroke: #00D4FF !important;
-  color: #00D4FF !important;
+  fill: #4CAF50 !important;
+  stroke: #4CAF50 !important;
+  color: #39843c !important;
 }
 
 /* Target images if the icon is an img instead of SVG */
@@ -5019,7 +5026,7 @@ nav.navbar .sub-menu li a:hover { color: #00D4FF !important; background-color: r
 .mic-access-tool-box-header,
 div[id*="mic-access-tool-box"] header,
 div[id*="mic-access-tool-box"] .header {
-  background: #00D4FF !important;
+  background: #4CAF50 !important;
   color: white !important;
 }
 
@@ -5046,8 +5053,8 @@ div[id*="mic-access-tool-box"] .header * {
 #mic-access-tool-box button:hover,
 div[id*="mic-access-tool-box"] button.active,
 div[id*="mic-access-tool-box"] button:hover {
-  border-color: #00D4FF !important;
-  color: #00D4FF !important;
+  border-color: #4CAF50 !important;
+  color: #39843c !important;
   background-color: rgba(0, 212, 255, 0.1) !important;
 }
 
@@ -5056,7 +5063,7 @@ div[id*="mic-access-tool-box"] button:hover {
 #mic-access-tool-box button[title*="Reset"],
 #mic-access-tool-box [class*="reset"],
 div[id*="mic-access-tool-box"] button[class*="reset"] {
-  background: #00D4FF !important;
+  background: #4CAF50 !important;
   color: white !important;
 }
 
@@ -5077,6 +5084,19 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 ._access-icon {
   display: flex !important;
 }
+/* === BUTTON TEXT OVERRIDES START === */
+.btn-secondary,
+.btn--secondary,
+[class*="btn-secondary"],
+[class*="btn--secondary"] { color: #333333 !important; }
+.btn-accent,
+.btn--accent,
+[class*="btn-accent"],
+[class*="btn--accent"] { color: #333333 !important; }
+.navbar .nav-cta-btn,
+.nav-cta-btn { color: #FFFFFF !important; }
+/* === BUTTON TEXT OVERRIDES END === */
+
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
