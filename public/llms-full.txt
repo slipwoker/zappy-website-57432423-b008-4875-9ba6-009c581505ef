@@ -2,13 +2,13 @@
 
 Zorkim Bishvilcha (We Throw for You) is a convenient home service that collects garbage bags directly from residents' apartment doors and takes them to the building's trash area. The service targets apartment building residents who want to save time and effort on a daily chore. The brand has a practical, friendly, and community-oriented identity, emphasizing ease, reliability, and door-to-door convenience.
 
-Source: https://example.com
+Source: https://zorkim-bishvilecha.zappy5.app
 
 ---
 
 ## זורקים בשבילך – פינוי אשפה מקצועי, מהיר ואדיב
 
-URL: https://example.com
+URL: https://zorkim-bishvilecha.zappy5.app
 Description: שירות פינוי אשפה מקצועי לבתים, עסקים ובניינים. אוספים מדלת הבית – שירות אמין, מקצועי ואדיב. חבילות משתלמות מ-99₪ לחודש. הצטרפו עוד היום!
 
 זורקים בשבילך – פינוי אשפה מקצועי, מהיר ואדיב
@@ -716,7 +716,7 @@ Description: שירות פינוי אשפה מקצועי לבתים, עסקים 
 
 ## מדיניות פרטיות
 
-URL: https://example.com/privacy
+URL: https://zorkim-bishvilecha.zappy5.app/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -981,7 +981,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://example.com/accessibility
+URL: https://zorkim-bishvilecha.zappy5.app/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1255,7 +1255,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://example.com/terms
+URL: https://zorkim-bishvilecha.zappy5.app/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -1548,7 +1548,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## תודה שפנית אלינו | זורקים בשבילך
 
-URL: https://example.com/thank-you
+URL: https://zorkim-bishvilecha.zappy5.app/thank-you
 Description: זורקים בשבילך - תודה שפנית אלינו | זורקים בשבילך
 
 תודה שפנית אלינו | זורקים בשבילך

@@ -7,25 +7,25 @@
 ## Pages
 
 ### בית
-https://example.com
+https://zorkim-bishvilecha.zappy5.app
 שירות פינוי אשפה מקצועי לבתים, עסקים ובניינים. אוספים מדלת הבית – שירות אמין, מקצועי ואדיב. חבילות משתלמות מ-99₪ לחודש. הצטרפו עוד היום!
 
 ### תודה שפנית אלינו | זורקים בשבילך
-https://example.com/thank-you
+https://zorkim-bishvilecha.zappy5.app/thank-you
 זורקים בשבילך - תודה שפנית אלינו | זורקים בשבילך
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://zorkim-bishvilecha.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://zorkim-bishvilecha.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://zorkim-bishvilecha.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -38,8 +38,8 @@ Information about WCAG compliance and accessibility features.
 - Address: Ha hatzav 37, Rishon le zion, Israel, Israel
 
 ### Contact form
-- URL: https://example.com
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://zorkim-bishvilecha.zappy5.app
+- Endpoint: https://zorkim-bishvilecha.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -72,6 +72,6 @@ Home Services
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://zorkim-bishvilecha.zappy5.app/sitemap.xml
+- Robots: https://zorkim-bishvilecha.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://zorkim-bishvilecha.zappy5.app/llms-full.txt
